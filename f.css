@@ -1,0 +1,10 @@
+
+
+html{background-color: pink;}
+img{width: 500px;}
+a:link{
+    padding: 10px 20px;
+    background-color: skyblue;
+    color: white;
+    text-decoration: none;
+}

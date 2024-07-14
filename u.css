@@ -1,0 +1,33 @@
+
+html{background-color: pink;}
+
+h1{color: white;}
+ul{
+  
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: skyblue;
+ 
+}
+a:link{
+    padding: 10px 20px;
+    background-color: skyblue;
+    color: white;
+    text-decoration: none;
+}
+li {
+    display:block
+   ;color: #000;
+   padding: 8px 16px;
+   text-decoration: none;
+
+}
+.png{
+width: 1390px;
+}
+div{ background-color: skyblue;
+height: 90px;}
+h1{text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
